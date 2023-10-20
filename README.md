@@ -12,7 +12,7 @@ $ npm install
 $ npm start
 ````
 
-<img alt="Best Bank logo" src="https://github.com/ScrimbaBootcamp/best-bank-app/blob/main/assets/bestbank_logo.png">
+<img alt="Best Bank logo" src="https://github.com/ScrimbaBootcamp/best-bank-app/blob/main/assets/bestbank_logo.gif">
 
 ## Group Instructions:
 1. Form a group of 2-4 Bootcamp students, all of whom have completed all or most sections of Scrimba's *React Basics* module.

@@ -10,7 +10,7 @@ The *Group Project* version of **Best Bank** will extend the solo-project requir
 
 The intent of this group project is to provide a *mentored experience* with developing a new **React Web App**.
 
-Students with *basic React skills* can form their own group of 2-3 and then meet online to review the project.
+Students with *basic React skills* can form their own group of 2-4 and then meet online to review the project.
 
 ## Quick start:
 If you're keen to look at the starter code then you can download this repo and install it on your computer.
@@ -22,7 +22,7 @@ $ npm start
 ````
 
 ## Steps to Begin this *Scrimba Bootcamp* Group Project:
-1. Form a group of 2-3 Bootcamp students, all of whom have completed all or most sections of Scrimba's ***React Basics*** module.
+1. Form a group of 2-4 Bootcamp students, all of whom have completed all or most sections of Scrimba's ***React Basics*** module.
 2. Find a convenient time to meet online to discuss your ideas for extending the initial requirements for the *Best Bank* project.
 3. Before the meeting, group members should research some online banking apps, noting any UI layouts and features you like. 
 4. During your group meeting, create a list of *all* the UI layout improvements you might make and new features you could add.

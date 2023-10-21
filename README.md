@@ -1,12 +1,12 @@
 <img alt="Best Bank logo" src="https://github.com/ScrimbaBootcamp/best-bank-app/blob/main/assets/bestbank_logo.gif">
 
-# Best Bank - Group Project
+# BestBank - Group Project
 
 Note: this project is available in the "public space" and has been designed for **Scrimba Bootcamp** students.
 
-**Best Bank** was originally created by *Rafid Hoda* as a [solo-project](https://scrimba.com/scrim/cocf84a259acc922196ded766)  for **Scrimba Frontend Developer** Module 4.
+**BestBank** was originally created by *Rafid Hoda* as a [solo-project](https://scrimba.com/scrim/cocf84a259acc922196ded766)  for **Scrimba Frontend Developer** Module 4.
 
-The *Group Project* version of **Best Bank** will extend the solo-project requirements to include more features.
+The *Group Project* version of **BestBank** will extend the solo-project requirements to include more features.
 
 The intent of this group project is to provide a *mentored experience* with developing a new **React Web App**.
 
@@ -23,7 +23,7 @@ $ npm start
 
 ## Steps to Begin this *Scrimba Bootcamp* Group Project:
 1. Form a group of 2-4 Bootcamp students, all of whom have completed all or most sections of Scrimba's ***React Basics*** module.
-2. Find a convenient time to meet online to discuss your ideas for extending the initial requirements for the *Best Bank* project.
+2. Find a convenient time to meet online to discuss your ideas for extending the initial requirements for the *BestBank* project.
 3. Before the meeting, group members should research some online banking apps, noting any UI layouts and features you like. 
 4. During your group meeting, create a list of *all* the UI layout improvements you might make and new features you could add.
 5. Next, decide which layout and feature improvements should be included *ASAP* and which ones can be postponed until later.

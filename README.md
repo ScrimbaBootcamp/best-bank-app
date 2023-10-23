@@ -21,14 +21,14 @@ $ npm install
 $ npm start
 ````
 
-## Steps to Begin this *Scrimba Bootcamp* Group Project:
-1. Form a group of 2-4 Bootcamp students, all of whom have completed all or most sections of Scrimba's ***React Basics*** module.
-2. Find a convenient time to meet online to discuss your ideas for extending the initial requirements for the *BestBank* project.
-3. Before the meeting, group members should research some online banking apps, noting any UI layouts and features you like. 
-4. During your group meeting, create a list of *all* the UI layout improvements you might make and new features you could add.
+## Steps to Begin the *Scrimba Bootcamp* Group Project:
+1. Form a group of 2-4 Bootcamp students, all of whom have completed all/most sections of ***Scrimba's React Basics*** module.
+2. Arrange a time to meet online to discuss some ideas for extending the requirements for the [Module 4 BestBank solo-project](https://scrimba.com/scrim/cocf84a259acc922196ded766).
+3. Prepare for your first group meeting by researching some online banking apps, noting any UI layouts and features you like. 
+4. During the group meeting, create a list of *all* the UI layout improvements you might make and new features you could add.
 5. Next, decide which layout and feature improvements should be included *ASAP* and which ones can be postponed until later.
 6. Then work together (sharing an online file?) to create a **Project Planning** document that includes what you've decided so far.
-7. Finally, use the *Scrimba Bootcamp Discord Channel* to send the link to your **Project Planning** doc to *Bootcamp Mentor*... 'Paul'.
+7. Finally, use the *Bootcamp code-reviews Discord Channel* to share a link to your **Project Planning** doc with a *Bootcamp Mentor*.
 
 ***NOTE***: this is an "*open-ended*" project... so your group will decide what, and how many, new features will be added to your project.
 

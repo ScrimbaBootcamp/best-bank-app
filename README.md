@@ -27,8 +27,8 @@ $ npm start
 3. Prepare for your first group meeting by researching some online banking apps, noting any UI layouts and features you like. 
 4. During the group meeting, create a list of *all* the UI layout improvements you might make and new features you could add.
 5. Next, decide which layout and feature improvements should be included *ASAP* and which ones can be postponed until later.
-6. Then work together (sharing an online file?) to create a **Project Planning** document that includes what you've decided so far.
-7. Finally, use the *Bootcamp code-reviews Discord Channel* to share a link to your **Project Planning** doc with a *Bootcamp Mentor*.
+6. Then, sharing info (eg. Whimsical), create Planning docs for how your app will look (wireframes) and function (flow charts).
+7. After you’ve created a “first draft”, arrange a meeting with a Scrimba Mentor (currently Paul ) to discuss your plans.
 
 ***NOTE***: this is an "*open-ended*" project... so your group will decide what, and how many, new features will be added to your project.
 
